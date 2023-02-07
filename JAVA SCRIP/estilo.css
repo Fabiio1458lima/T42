@@ -1,0 +1,49 @@
+
+
+    body{
+
+        font-family: sans-serif;
+    }
+
+.card{
+
+    width: 30%;
+    margin: 50px auto;
+    background-color: aqua;
+    padding: 20px;
+    border-radius: 5px;
+    text-align: center;
+    border: 2px solid;
+
+}
+
+.card h1{
+
+    color: red;
+    font-weight: 300;
+}
+
+.card input{
+
+    width: 100%;
+    margin: 10px 0px;
+    padding: 5px;
+    border-radius: 5px;
+
+}
+
+.card button{
+
+    border-radius: 5px;
+    margin-top: 10px;
+
+}
+
+.card button:hover {
+    
+    cursor: pointer;
+    background-color: gray;
+    color: white;
+
+}
+

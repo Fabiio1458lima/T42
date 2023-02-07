@@ -1,0 +1,47 @@
+body {
+    font-weight: bold;
+    color: bisque;
+}
+
+div {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.painel {
+    width: 50%;
+    background-color: purple;
+    margin: auto;
+    height: 500px;
+    text-align: center;
+    align-items: center;
+    background-image: url("./dicas-para-churrasco.jpg");
+}
+.campo {
+    height: 50px;
+    font-size: 15pt;
+}
+
+.botao {
+    height: 30px;
+    width: 40%;
+    cursor: pointer;
+}
+
+.botao:hover {
+    background-color: bisque;
+}
+
+.unidade {
+    padding: 12px;
+    width: 50px;
+}
+
+.item {
+    font-size: 12pt;
+}
+
+.icone-titulo {
+    width: 8%;
+    padding-top: 10px;
+    margin: auto;
+}

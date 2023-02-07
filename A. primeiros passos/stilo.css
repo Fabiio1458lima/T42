@@ -1,0 +1,74 @@
+body{
+
+background-image:url(fundo.png);
+background-repeat: no-repeat;
+background-size: cover;
+background-position: center;
+
+}
+
+h1 {
+
+    color: blue;
+    font-family: sans-serif ; 
+    text-align: center;
+    margin-top: 100px;
+
+    }
+    
+    input {
+    
+    padding: 10px  15px;
+    border-radius: 5px; 
+    border: 1px solid gray;
+
+
+    }
+    
+    button{
+    
+    background-color: blue;
+    color: white;
+    padding: 10px 15px;
+    border-radius: 5px;
+    border: none;
+    cursor: pointer;
+
+    
+    }
+    
+.formulario{
+
+    background-color: aqua;
+width: 400px;
+margin: auto;
+border: 1px solid gray;
+padding: 40px;
+border-radius: 5px;
+text-align: center;
+
+}
+
+.alerta{
+
+    background-color: blue;
+    color: aqua;
+    padding: 20px;
+    font-family: sans-serif;
+    width: 400px;
+    margin: auto;
+    margin-bottom: 20px;
+    border-radius: 5px;
+    
+}
+.alerta img{
+
+    width: 20px;
+    margin-right: 10px;
+
+}
+
+.alerta span{
+
+    width: 12px;
+}
